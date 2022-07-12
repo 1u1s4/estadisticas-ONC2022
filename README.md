@@ -1,3 +1,3 @@
 # estadisticas-ONC2022
-##notas
+## notas
 [] webscraping a esto https://nombresdepersona.com/guatemala
